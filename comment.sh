@@ -11,6 +11,7 @@ This lesson is about the shell scripting
 EOF
 
 
+#  If the HereDoc block is not redirected to a command, it can serve as a multiline comments placeholder.
 << multiline-comment
 pwd
 ls
