@@ -11,6 +11,7 @@ let "mul = $first * $second"
 let "div = $first / $second"
 
 # after math operations results will be displayed 
+# let command give results as an integer
 echo "Sum of the numbers = $sum"
 echo "Subtraction of the numbers = $sub"
 echo "Multiplication of the numbers = $mul"
