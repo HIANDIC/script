@@ -9,3 +9,6 @@ let "sum = $first + $second"
 let "sub = $first - $second"
 let "mul = $first * $second"
 let "div = $first / $second"
+
+# after math operations results will be displayed 
+
